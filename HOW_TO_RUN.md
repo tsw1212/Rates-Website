@@ -1,6 +1,4 @@
-It looks like there are a few formatting issues in the markdown document. Here’s a revised version with better formatting and consistency:
 
-```markdown
 # How to Run Currency Exchange App
 
 ## Option 1: Recommended - Running with Docker Compose
