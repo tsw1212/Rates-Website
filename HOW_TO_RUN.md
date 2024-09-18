@@ -55,7 +55,7 @@ dotnet restore
 ### 3. Run the Application
 
 ```bash
-cd ./backend
+cd backend
 dotnet run
 
 cd ../frontend
