@@ -13,15 +13,13 @@ git clone https://github.com/tsw1212/Rates-Website.git
 cd Rates-Website
 ```
 
-### 2.2 Build and Run the Docker Containers
+### 2 Build and Run the Docker Containers
 
 ```bash
 First time:
 
 docker-compose up --build
 
-Not first time:
-docker-compose up
 
 
 ```
@@ -51,7 +49,6 @@ cd Rates-Website
 ```
 
 ### 2. Install Dependencies
-only if you don't have the prerequisites
 
 ```bash
 cd frontend
@@ -64,10 +61,8 @@ dotnet restore
 ### 3. Run the Application
 
 ```bash
-If you have installed  this installations will do this line
 cd backend
-If you haven't installed the installations, do this line
-cd backend/backend
+
 
 And now do the following rows in any situation
 
