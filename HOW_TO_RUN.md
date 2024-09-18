@@ -11,8 +11,8 @@
 ```bash
 git clone https://github.com/tsw1212/Rates-Website.git
 cd Rates-Website
-### 2. Build and Run the Docker Containers
-docker-compose up --build
+**### 2. Build and Run the Docker Containers
+**docker-compose up --build
 ### 3. Access the App
 
  http://localhost:5173 to use the currency exchange app.
