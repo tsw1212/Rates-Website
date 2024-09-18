@@ -92,7 +92,8 @@ Open a New Terminal  Window  do: cd "your App path"
 docker-compose up
 ### Option 2:
 cd backend/backend
-Open a New Terminal  Window to run the backend application do: cd "your path"
+
+Open a New Terminal  Window to run the backend application do: cd "your path now"
 
 dotnet run
 
