@@ -16,7 +16,6 @@ cd Rates-Website
 ### 2 Build and Run the Docker Containers
 
 ```bash
-First time:
 
 docker-compose up --build
 
@@ -64,8 +63,6 @@ dotnet restore
 cd backend
 
 
-And now do the following rows in any situation
-
 Open a New Terminal  Window to run the backend application do: cd "your path"
 
 dotnet run
@@ -88,6 +85,24 @@ Open [http://localhost:5173](http://localhost:5173) to use the currency exchange
 
 - If you encounter port conflicts, adjust the `docker-compose.yml` file.
 - Use `npm install` or `dotnet restore` if there are dependency issues.
+  
+  ## You have already activated once and you just want to activate again
+Open a New Terminal  Window  do: cd "your App path"
+### Option 1: Recommended
+docker-compose up
+### Option 2:
+cd backend/backend
+Open a New Terminal  Window to run the backend application do: cd "your path"
+
+dotnet run
+
+In the old Terminal
+
+cd ../../frontend
+npm run dev
+
+
+
 ```
 
 
