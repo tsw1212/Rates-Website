@@ -59,7 +59,7 @@ dotnet restore
 cd backend
 
 Open a New Terminal  Window to run the backend application do: cd "your path"
- and after do
+ and after 
 
 dotnet run
 
@@ -67,7 +67,6 @@ In the old Terminal
 
 cd ../frontend
 npm run dev
-
 
 
 
