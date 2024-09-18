@@ -59,7 +59,6 @@ dotnet restore
 cd backend
 
 Open a New Terminal  Window to run the backend application do: cd "your path"
- and after 
 
 dotnet run
 
