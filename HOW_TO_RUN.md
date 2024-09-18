@@ -64,7 +64,7 @@ dotnet restore
 ### 3. Run the Application
 
 ```bash
-If you have installed if the installations will do this line
+If you have installed  this installations will do this line
 cd backend
 If you haven't installed the installations, do this line
 cd backend/backend
