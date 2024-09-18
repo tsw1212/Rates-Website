@@ -51,6 +51,7 @@ cd Rates-Website
 ```
 
 ### 2. Install Dependencies
+only if you don't have
 
 ```bash
 cd frontend
@@ -63,8 +64,12 @@ dotnet restore
 ### 3. Run the Application
 
 ```bash
-
+If you have installed if the installations will do this line
 cd backend
+If you haven't installed the installations, do this line
+cd backend/backend
+
+And now do the following rows in any situation
 
 Open a New Terminal  Window to run the backend application do: cd "your path"
 
