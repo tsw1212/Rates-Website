@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tsw32\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Rates Website\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE63AB6F-8F2A-49AF-9943-5129F60196AD}|backend\\backend.csproj|c:\\users\\tsw32\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\rates website\\backend\\backend\\backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{FE63AB6F-8F2A-49AF-9943-5129F60196AD}|backend\\backend.csproj|solutionrelative:backend\\backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE63AB6F-8F2A-49AF-9943-5129F60196AD}|backend\\backend.csproj|c:\\users\\tsw32\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\rates website\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE63AB6F-8F2A-49AF-9943-5129F60196AD}|backend\\backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE63AB6F-8F2A-49AF-9943-5129F60196AD}|backend\\backend.csproj|c:\\users\\tsw32\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\rates website\\backend\\backend\\services\\icurrenciesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE63AB6F-8F2A-49AF-9943-5129F60196AD}|backend\\backend.csproj|solutionrelative:backend\\services\\icurrenciesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE63AB6F-8F2A-49AF-9943-5129F60196AD}|backend\\backend.csproj|c:\\users\\tsw32\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\rates website\\backend\\backend\\services\\currenciesservicefake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE63AB6F-8F2A-49AF-9943-5129F60196AD}|backend\\backend.csproj|solutionrelative:backend\\services\\currenciesservicefake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE63AB6F-8F2A-49AF-9943-5129F60196AD}|backend\\backend.csproj|c:\\users\\tsw32\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\rates website\\backend\\backend\\services\\currenciesserviceexternalapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE63AB6F-8F2A-49AF-9943-5129F60196AD}|backend\\backend.csproj|solutionrelative:backend\\services\\currenciesserviceexternalapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE63AB6F-8F2A-49AF-9943-5129F60196AD}|backend\\backend.csproj|c:\\users\\tsw32\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\rates website\\backend\\backend\\controllers\\currencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE63AB6F-8F2A-49AF-9943-5129F60196AD}|backend\\backend.csproj|solutionrelative:backend\\controllers\\currencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "backend.http",
+              "DocumentMoniker": "C:\\Users\\tsw32\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Rates Website\\backend\\backend\\backend.http",
+              "RelativeDocumentMoniker": "backend\\backend.http",
+              "ToolTip": "C:\\Users\\tsw32\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Rates Website\\backend\\backend\\backend.http",
+              "RelativeToolTip": "backend\\backend.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-18T14:59:01.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICurrenciesService.cs",
+              "DocumentMoniker": "C:\\Users\\tsw32\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Rates Website\\backend\\backend\\Services\\ICurrenciesService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\ICurrenciesService.cs",
+              "ToolTip": "C:\\Users\\tsw32\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Rates Website\\backend\\backend\\Services\\ICurrenciesService.cs",
+              "RelativeToolTip": "backend\\Services\\ICurrenciesService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T14:58:56.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CurrencyController.cs",
+              "DocumentMoniker": "C:\\Users\\tsw32\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Rates Website\\backend\\backend\\Controllers\\CurrencyController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\CurrencyController.cs",
+              "ToolTip": "C:\\Users\\tsw32\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Rates Website\\backend\\backend\\Controllers\\CurrencyController.cs",
+              "RelativeToolTip": "backend\\Controllers\\CurrencyController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T14:39:32.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CurrenciesServiceExternalApi.cs",
+              "DocumentMoniker": "C:\\Users\\tsw32\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Rates Website\\backend\\backend\\Services\\CurrenciesServiceExternalApi.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\CurrenciesServiceExternalApi.cs",
+              "ToolTip": "C:\\Users\\tsw32\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Rates Website\\backend\\backend\\Services\\CurrenciesServiceExternalApi.cs",
+              "RelativeToolTip": "backend\\Services\\CurrenciesServiceExternalApi.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T19:13:53.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CurrenciesServiceFake.cs",
+              "DocumentMoniker": "C:\\Users\\tsw32\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Rates Website\\backend\\backend\\Services\\CurrenciesServiceFake.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\CurrenciesServiceFake.cs",
+              "ToolTip": "C:\\Users\\tsw32\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Rates Website\\backend\\backend\\Services\\CurrenciesServiceFake.cs",
+              "RelativeToolTip": "backend\\Services\\CurrenciesServiceFake.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T19:13:52.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tsw32\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Rates Website\\backend\\backend\\Program.cs",
+              "RelativeDocumentMoniker": "backend\\Program.cs",
+              "ToolTip": "C:\\Users\\tsw32\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Rates Website\\backend\\backend\\Program.cs",
+              "RelativeToolTip": "backend\\Program.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAQwDMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T19:12:18.236Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
