@@ -58,8 +58,9 @@ dotnet restore
 cd ../frontend
 npm run dev
 
-cd backend
+cd ../backend
 dotnet run
+
 
 
 ```
