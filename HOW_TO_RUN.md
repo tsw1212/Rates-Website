@@ -55,8 +55,15 @@ dotnet restore
 ### 3. Run the Application
 
 ```bash
+
 cd backend
+
+Open a New Terminal  Window to run the backend application do: cd "your path"
+ and after do
+
 dotnet run
+
+In the old Terminal
 
 cd ../frontend
 npm run dev
