@@ -55,11 +55,13 @@ dotnet restore
 ### 3. Run the Application
 
 ```bash
+cd ../frontend
+npm run dev
+
 cd backend
 dotnet run
 
-cd ../frontend
-npm run dev
+
 ```
 
 ### 4. Access the App
