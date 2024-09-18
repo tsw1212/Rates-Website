@@ -33,7 +33,7 @@ docker-compose down
 
 ### Prerequisites
 - Install [Node.js](https://nodejs.org/).
-- Install [.NET SDK](https://dotnet.microsoft.com/en-us/download/dotnet) (for backend if running locally).
+- Install [.NET SDK](https://dotnet.microsoft.com/en-us/download/dotnet) 
 
 ### 1. Clone the Repository
 
