@@ -12,12 +12,15 @@
 git clone https://github.com/tsw1212/Rates-Website.git
 cd Rates-Website
 ```
+### 2.1 f you have already built another time  you only need to Run the Docker Containers
+docker-compose up
 
-### 2. Build and Run the Docker Containers
+### 2.2 Build and Run the Docker Containers
 
 ```bash
 docker-compose up --build
 ```
+
 
 ### 3. Access the App
 
