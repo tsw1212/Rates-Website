@@ -64,7 +64,7 @@ dotnet run
 
 In the old Terminal
 
-cd ../frontend
+cd ../../frontend
 npm run dev
 
 
