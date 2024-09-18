@@ -1,69 +1,46 @@
-How to Run Currency Exchange App
-Option 1: Recommended - Running with Docker Compose
-Prerequisites
-Install Docker and Docker Compose.
-Steps:
-Clone the Repository
+# How to Run Currency Exchange App
 
-bash
-Copy code
+
+## Option 1: Recommended - Running with Docker Compose
+
+## Prerequisites
+- Install [Docker and Docker Compose](https://www.docker.com/products/docker-desktop) (recommended for Docker setup).
+
+### 1. Clone the Repository
+  
+```bash
 git clone https://github.com/tsw1212/Rates-Website.git
 cd Rates-Website
-Build and Run the Docker Containers
-
-bash
-Copy code
+2. Build and Run the Docker Containers
 docker-compose up --build
-Access the App
+3. Access the App
 
-Open your browser and visit: http://localhost:5173 to use the currency exchange app.
-Stop the Services
-
-bash
-Copy code
+ http://localhost:5173 to use the currency exchange app.
+4.  Stop the services:
 docker-compose down
-Option 2: Running Locally (Without Docker)
-Prerequisites
-Install Node.js.
-Install .NET SDK.
-Steps:
-Clone the Repository
 
-bash
-Copy code
+Option 2: Running Locally (without Docker)
+## Prerequisites
+- Install [Node.js](https://nodejs.org/).
+- Install [.NET SDK](https://dotnet.microsoft.com/en-us/download/dotnet) (for backend if running locally).
+1. Clone the Repository
 git clone https://github.com/tsw1212/Rates-Website.git
 cd Rates-Website
-Install Dependencies
-
-Frontend (React)
-
-bash
-Copy code
+2. Install Dependencies
 cd frontend
 npm install
-Backend (ASP.NET Core API)
 
-bash
-Copy code
 cd ../backend
 dotnet restore
-Run the Application
-
-Run the Backend
-
-bash
-Copy code
+3. Run the Application
 cd backend
 dotnet run
-Run the Frontend Open a new terminal and run:
-
-bash
-Copy code
 cd frontend
 npm run dev
-Access the App
+4. Access the App
+ http://localhost:5173 to use the currency exchange app.
 
-Open your browser and visit: http://localhost:5173 to use the currency exchange app.
 Troubleshooting
-Port conflicts: If you encounter port conflicts, adjust the docker-compose.yml file.
-Dependency issues: Use npm install or dotnet restore to resolve any dependency-related issues
+If you encounter port conflicts, adjust the docker-compose.yml file.
+Use npm install or dotnet restore if there are dependency issues
+
