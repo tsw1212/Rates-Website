@@ -51,7 +51,7 @@ cd Rates-Website
 ```
 
 ### 2. Install Dependencies
-only if you don't have
+only if you don't have the prerequisites
 
 ```bash
 cd frontend
