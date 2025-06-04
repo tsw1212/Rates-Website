@@ -1,8 +1,6 @@
-Sure! Here's the full `README.md` file in **English** for your Exchange Rates Website project, including a clear description, technologies used, API documentation, project structure, features (including all bonus parts), and GitHub link:
 
 ---
 
-````markdown
 # 💱 Exchange Rates Website
 
 An interactive web application for displaying live currency exchange rates — built with React (Vite) and ASP.NET 8 Web API.
@@ -45,7 +43,6 @@ This project was developed as part of a technical assignment and includes full i
 - Docker + Docker Compose
 - Well-structured folder separation (frontend/backend)
 
----
 
 ## 🔌 API Documentation
 
@@ -122,7 +119,4 @@ Tsipi Bolvin
 
 ```
 
----
 
-Would you like me to generate the `HOW_TO_RUN.md` file next, with step-by-step instructions for running the app locally (with and without Docker)?
-```
